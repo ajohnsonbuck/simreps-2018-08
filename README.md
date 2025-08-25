@@ -3,7 +3,9 @@
 Full GUI-enabled software package that performs analysis of single-molecule digital assay data using kinetic fingerprinting (SiMREPS = single-molecule recognition through equilibrium Poisson sampling).
 
 ## Availability
-Software for SiMREPS data analysis is available on request for non-commercial, academic use from the University of Michigan Innovation Partnerships office, which owns all rights to the SiMREPS technology: innovationpartnerships@umich.edu
+Software for SiMREPS data analysis is available on request for non-commercial, academic use, or for licensed commercial use, from the University of Michigan Innovation Partnerships office: innovationpartnerships@umich.edu
+
+Academic contacts: Alexander Johnson-Buck (alebuck@umich.edu), Nils Walter (nwalter@umich.edu)
 
 Only a Windows version is available at this time.
 
@@ -19,6 +21,10 @@ Only a Windows version is available at this time.
 
 ### Parameter Optimization (SiMREPS Optimizer)
 - Trains a machine learning classifier to identify specific single molecule analytes based on kinetics and signal-to-noise, using an input training set of positive and negative control measurements
+#### App Window
+
+#### Optimization report
+<img width="1528" height="884" alt="image" src="https://github.com/user-attachments/assets/b917c78a-fd2e-4930-ada5-4033943f2541" />
 
 ## Please Cite:
 ### Software:
@@ -37,4 +43,3 @@ Only a Windows version is available at this time.
 - Li, Jieming; Zhang, Leyou; Johnson-Buck, Alexander; Walter, Nils G. (2020) Automatic classification and segmentation of single-molecule fluorescence time traces with deep learning. Nature Communications 11 (1), 1-11.
 - Mandal, Shankar; Li, Zi; Chatterjee, Tanmay; Khanna, Kunal; Montoya, Karen; Dai, Liuhan; Petersen, Chandler; Li, Lidan; Tewari, Muneesh; **Johnson-Buck, Alexander; Walter, Nils G. (2020) Direct kinetic fingerprinting for high-accuracy single-molecule counting of diverse disease biomarkers. Accounts of Chemical Research 54 (2), 388-402.
 - Chatterjee, Tanmay; Li, Zi; Khanna, Kunal; Montoya, Karen; Tewari, Muneesh; Walter, Nils G.; Johnson-Buck, Alexander. (2020) Ultraspecific analyte detection by direct kinetic fingerprinting of single molecules. Trends in Analytical Chemistry 123, 115764.
-- Hayward, Stephen L.; Lund, Paul E.; Kang, Qing; Johnson-Buck, Alexander; Tewari, Muneesh; Walter, Nils G. (2018) Ultra-specific and amplification-free quantification of mutant DNA by single-molecule kinetic fingerprinting. Journal of the American Chemical Society 140 (37), 11755–11762, DOI: 10.1021/jacs.8b06685.
