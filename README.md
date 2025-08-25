@@ -9,7 +9,7 @@ Academic contacts: Alexander Johnson-Buck (alebuck@umich.edu), Nils Walter (nwal
 
 Only a Windows version is available at this time.
 
-## SiMREPS Analysis Suite: Functionality
+## Features
 ### SiMREPS Analysis
 - Takes as input one or more TIF image stacks from fluorescence microscopy
 - Finds locations with repeated SiMREPS probe binding and generates fluorescence vs. time traces from them
@@ -19,12 +19,23 @@ Only a Windows version is available at this time.
 - (Optional) Plots a standard curve from concentration series and fits a 5-parameter logistic regression to the data
 - (Optional) Estimates concentration from existing standard curve
 
+#### App Window
+<img width="917" height="680" alt="image" src="https://github.com/user-attachments/assets/fa3f4d56-7d1c-4c59-b3b8-2b827b238f73" />
+
+#### Trace Plotting
+<img width="869" height="296" alt="image" src="https://github.com/user-attachments/assets/8e511a30-802f-4777-aaf2-7be0137570d8" />
+
+#### Standard Curve
+<img width="658" height="1003" alt="image" src="https://github.com/user-attachments/assets/4a53d458-db61-4d70-b1cf-09be3d477554" />
+
 ### Parameter Optimization (SiMREPS Optimizer)
 - Trains a machine learning classifier to identify specific single molecule analytes based on kinetics and signal-to-noise, using an input training set of positive and negative control measurements
 #### App Window
+<img width="1409" height="889" alt="image" src="https://github.com/user-attachments/assets/c1980f2f-b887-47e3-ad13-ca8b3b7e55b3" />
 
 #### Optimization report
-<img width="1528" height="884" alt="image" src="https://github.com/user-attachments/assets/b917c78a-fd2e-4930-ada5-4033943f2541" />
+<img width="1531" height="885" alt="image" src="https://github.com/user-attachments/assets/191b8dec-df44-489f-86b4-ad036cb06e8c" />
+
 
 ## Please Cite:
 ### Software:
